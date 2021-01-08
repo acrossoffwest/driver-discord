@@ -1,5 +1,5 @@
 {
-    "name": "MerieBot/driver-discord",
+    "name": "meriebot/driver-discord",
     "license": "MIT",
     "description": "Discord driver for BotMan",
     "keywords": [
