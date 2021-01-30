@@ -1,5 +1,5 @@
 {
-    "name": "meriebot/driver-discord",
+    "name": "acrossoffwest/driver-discord",
     "license": "MIT",
     "description": "Discord driver for BotMan",
     "keywords": [
@@ -17,7 +17,7 @@
     "require": {
         "php": ">=7.0",
         "botman/botman": "~2.0",
-        "team-reflex/discord-php": "^4.0"
+        "team-reflex/discord-php": "^5.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
